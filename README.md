@@ -5,7 +5,7 @@ Python Version - 3.8.1
 
 **Description**
 
-To run the application, double click on the executable file named 'bk-week1'. The application opens in terminal with the below options.
+To run the application download and set the permission to 755(chmod 755), then double click the executable file named 'bk-week1'. The application opens in terminal with the below options.
 
 "Select and operation as below:- "\
 "1. Enter 1 to input any string and convert to a stingcase of available choices."\
